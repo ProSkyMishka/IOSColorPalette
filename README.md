@@ -8,3 +8,4 @@ What issues prevent us from using storyboards in real projects?
 4. if we have a lot of Controllers we can accidentally change something in one of them and miss it
 
 What does the code on lines 25 and 29 do?
+![](1.png)
